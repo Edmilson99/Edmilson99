@@ -1,5 +1,5 @@
 ## Hi there👋 
-##My name's **Edmilson Cardoso**
+##My name's **Edmilson Cardoso and I'm from Angola I've been working as FRONT - END developer since 2022**
 - 🌱 I’m a **Computer Science Student** 
 - 💞️ I love **programing** in particular **FRONT-END**
 - 📫 How to reach me **contact: +244948183308, **Whatsapp: +244948183308**
